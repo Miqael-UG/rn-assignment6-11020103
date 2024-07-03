@@ -9,7 +9,7 @@ This repository contains the implementation for Assignment 6 of the DCIT202 Mobi
 ## Features Implemented
 
 - **HomeScreen**: Displays a list of available products fetched from a mock data source.
-- **CartScreen**: Shows selected items added to the cart, with the ability to remove items.
+- **CheckoutScreen**: Shows selected items added to the cart, with the ability to remove items.
 - **Add to Cart Button**: Available on each product item in the HomeScreen for adding items to the cart.
 - **Remove from Cart Button**: Allows users to remove selected items from the cart.
 - **Local Storage**: Utilizes AsyncStorage from React Native to store selected items locally on the device.
